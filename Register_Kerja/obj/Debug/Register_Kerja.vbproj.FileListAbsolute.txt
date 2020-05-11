@@ -1,0 +1,17 @@
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\bin\Debug\Register_Kerja.exe.config
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\bin\Debug\Register_Kerja.exe
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\bin\Debug\Register_Kerja.pdb
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\bin\Debug\Register_Kerja.xml
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.vbprojAssemblyReference.cache
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.frmsatu.resources
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.frmmasuk.resources
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.Resources.resources
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.vbproj.GenerateResource.cache
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.exe
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.xml
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.pdb
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.frmdata.resources
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.vbproj.CopyComplete
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.frm_dua.resources
+D:\coding VB\Register Kerja\Register_Kerja\Register_Kerja\obj\Debug\Register_Kerja.frmliat.resources
